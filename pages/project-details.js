@@ -12,7 +12,7 @@ export default function ProjectDetails() {
                                 <div className="col-lg-8">
                                     <div className="project-details-wrap">
                                         <div className="project-details-thumb">
-                                            <img src="/assets/img/project/project_details01.jpg" alt="" />
+                                            <img src="/assets/img/project/Service_details01.jpg" alt="" />
                                         </div>
                                         <div className="project-details-content">
                                             <h2 className="title">Medium shot man working on roof restaurant building at sunset</h2>
