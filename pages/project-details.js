@@ -56,7 +56,7 @@ export default function ProjectDetails() {
                                                     <li><span>End Date :</span> 03 Jan {new Date().getFullYear()}</li>
                                                     <li><span>Clients :</span> Avabil</li>
                                                     <li><span>Tags:</span> Roofing Business</li>
-                                                    <li><span>Website :</span> avabil.com</li>
+                                                    <li><span>Location :</span> avabil.com</li>
                                                     <li><span>Category :</span> Roofing</li>
                                                 </ul>
                                             </div>
