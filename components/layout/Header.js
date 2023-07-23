@@ -30,7 +30,7 @@ export default function Header({ headerCls, headerTop }) {
                             <div className="col-xl-8 col-lg-9">
                                 <div className="header-top-left">
                                     <ul className="list-wrap">
-                                        <li>Welcome to Central Roofing System Header underlayout </li>
+                                        <li>HEAD Welcome to Central Roofing System </li>
                                         <li><i className="fas fa-phone-alt" /><Link href="tel:024 286 7618">024 286 7618</Link></li>
                                         <li><i className="fas fa-envelope" /><Link href="mailto:infoyour@gmail.com">agent@centralroofingsystems.com</Link></li>
                                     </ul>
