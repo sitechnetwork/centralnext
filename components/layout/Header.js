@@ -30,9 +30,9 @@ export default function Header({ headerCls, headerTop }) {
                             <div className="col-xl-8 col-lg-9">
                                 <div className="header-top-left">
                                     <ul className="list-wrap">
-                                        <li>Welcome to Roofx Construction</li>
-                                        <li><i className="fas fa-phone-alt" /><Link href="tel:0123456789">+88 ( 5548 ) 6548</Link></li>
-                                        <li><i className="fas fa-envelope" /><Link href="mailto:infoyour@gmail.com">infoyour@gmail.com</Link></li>
+                                        <li>Welcome to Central Roofing Systems </li>
+                                        <li><i className="fas fa-phone-alt" /><Link href="tel:027 077 7202">+88 ( 5548 ) 6548</Link></li>
+                                        <li><i className="fas fa-envelope" /><Link href="mailto:infoyour@gmail.com">agent@centralroofingsystems.com</Link></li>
                                     </ul>
                                 </div>
                             </div>
