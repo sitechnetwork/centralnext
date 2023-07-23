@@ -12,7 +12,8 @@ export default function Footer1() {
                                     <div className="footer-widget">
                                         <h2 className="fw-title">About Us</h2>
                                         <div className="footer-content">
-                                            <p>There are many variations of passages of Lore Ipsum available, but the majori have alteration in some form, by injected humour, ondomised word which don't look</p>
+                                            <p>Invest in good roofing solutions. If you care about comfort and are looking for protection for your home value, we have compiled a list of some of the best roofs
+</p>
                                             <div className="footer-newsletter">
                                                 <h4 className="title">Subscribe to Our Newsletter</h4>
                                                 <form action="#">
@@ -95,7 +96,7 @@ export default function Footer1() {
                                             </div>
                                             <div className="content">
                                                 <span>Phone No</span>
-                                                <Link href="/tel:0123456789">+000 (123) 456 88</Link>
+                                                <Link href="/tel:024 286 7618">024 286 7618</Link>
                                             </div>
                                         </div>
                                     </div>
@@ -104,8 +105,7 @@ export default function Footer1() {
                                             <h2 className="title">Follow Us:</h2>
                                             <ul className="list-wrap">
                                                 <li><Link href="/#"><i className="fab fa-facebook-f" /></Link></li>
-                                                <li><Link href="/#"><i className="fab fa-twitter" /></Link></li>
-                                                <li><Link href="/#"><i className="fab fa-linkedin-in" /></Link></li>
+                                            
                                                 <li><Link href="/#"><i className="fab fa-youtube" /></Link></li>
                                             </ul>
                                         </div>
