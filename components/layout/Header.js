@@ -77,12 +77,7 @@ export default function Header({ headerCls, headerTop }) {
                                         <div className="logo d-none">
                                             <Link href="/"><img src="/assets/img/logo/logo_02.png" alt="Logo" /></Link>
                                         </div>
-                                        <div className="navbar-wrap main-menu d-none d-lg-flex">
-                                            <ul className="navigation">
-                                                
-                                                        <li><Link href="/">Home</Link></li>
-                                                 
-                                                    </ul>
+                                       
                                                 </li>
                                                 <li><Link href="/about">About us</Link></li>
                                                 <li className="menu-item-has-children"><Link href="/#">Services</Link>
