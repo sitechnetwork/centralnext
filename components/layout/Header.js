@@ -31,7 +31,7 @@ export default function Header({ headerCls, headerTop }) {
                                 <div className="header-top-left">
                                     <ul className="list-wrap">
                                         <li>Welcome to Central Roofing Systems </li>
-                                        <li><i className="fas fa-phone-alt" /><Link href="tel:027 077 7202">+88 ( 5548 ) 6548</Link></li>
+                                        <li><i className="fas fa-phone-alt" /><Link href="tel:024 286 7618">024 286 7618</Link></li>
                                         <li><i className="fas fa-envelope" /><Link href="mailto:infoyour@gmail.com">agent@centralroofingsystems.com</Link></li>
                                     </ul>
                                 </div>
@@ -53,8 +53,7 @@ export default function Header({ headerCls, headerTop }) {
                                     <div className="header-social">
                                         <ul className="list-wrap">
                                             <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                            <li><Link href="#"><i className="fab fa-linkedin-in" /></Link></li>
-                                            <li><Link href="#"><i className="fab fa-twitter" /></Link></li>
+                                       
                                             <li><Link href="#"><i className="fab fa-youtube" /></Link></li>
                                         </ul>
                                     </div>
@@ -80,12 +79,9 @@ export default function Header({ headerCls, headerTop }) {
                                         </div>
                                         <div className="navbar-wrap main-menu d-none d-lg-flex">
                                             <ul className="navigation">
-                                                <li className="active menu-item-has-children"><Link href="/#">Home</Link>
-                                                    <ul className="sub-menu">
-                                                        <li><Link href="/">Home One</Link></li>
-                                                        <li><Link href="/index-2">Home Two</Link></li>
-                                                        <li><Link href="/index-3">Home Three</Link></li>
-                                                        <li><Link href="/index-4">Home Four</Link></li>
+                                                
+                                                        <li><Link href="/">Home</Link></li>
+                                                 
                                                     </ul>
                                                 </li>
                                                 <li><Link href="/about">About us</Link></li>
