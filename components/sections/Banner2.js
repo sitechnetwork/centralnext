@@ -8,7 +8,7 @@ export default function Banner2() {
                     <div className="row align-items-center justify-content-center">
                         <div className="col-lg-6 col-md-10 order-0 order-lg-2">
                             <div className="banner-img-wrap">
-                                <img src="/assets/img/banner/IMG-20221122-WA0043.jpg" alt="" />
+                                <img src="/assets/img/banner/banner1.jpg" alt="" />
                                 <div className="overly-text">
                                     <h2 className="title">Roofing Services</h2>
                                 </div>
