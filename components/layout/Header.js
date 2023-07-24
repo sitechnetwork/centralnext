@@ -79,7 +79,7 @@ export default function Header({ headerCls, headerTop }) {
                                         </div>
                                         <div className="navbar-wrap main-menu d-none d-lg-flex">
                                             <ul className="navigation">
-                                                <li className="active menu-item-has-children">
+                                               
                                               <li><Link href="https://centralroofingsystem.com/">Home</Link></li>
                                                 <li><Link href="/about">About us</Link></li>
                                                 <li><Link href="/services">Services</Link></li>
