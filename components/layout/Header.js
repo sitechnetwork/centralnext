@@ -79,31 +79,19 @@ export default function Header({ headerCls, headerTop }) {
                                         </div>
                                         <div className="navbar-wrap main-menu d-none d-lg-flex">
                                             <ul className="navigation">
-                                                <li className="active menu-item-has-children"><Link href="/#">Home</Link>
-
-                                                </li>
+                                                <li className="active menu-item-has-children">
+                                              <li><Link href="https://centralroofingsystem.com/">Home</Link></li>
                                                 <li><Link href="/about">About us</Link></li>
-                                                <li className="menu-item-has-children"><Link href="/#">Services</Link>
-                                                    <ul className="sub-menu">
-                                                        <li><Link href="/services">Services Page</Link></li>
-                                                        <li><Link href="/services-details">Services Details</Link></li>
-                                                    </ul>
-                                                </li>
-                                                <li className="menu-item-has-children"><Link href="/#">Pages</Link>
-                                                    <ul className="sub-menu">
-                                                        <li><Link href="/project">Project Page</Link></li>
-                                                        <li><Link href="/project-details">Project Details</Link></li>
+                                                <li><Link href="/services">Services</Link></li>
+                                                       
+                                                         <li><Link href="/project">Project Page</Link></li>
+    
                                                         <li><Link href="/team">Our Team</Link></li>
-                                                        <li><Link href="/team-details">Team Details</Link></li>
-                                                        <li><Link href="/error">404 Error</Link></li>
-                                                    </ul>
-                                                </li>
-                                                <li className="menu-item-has-children"><Link href="/#">Blog</Link>
-                                                    <ul className="sub-menu">
-                                                        <li><Link href="/blog">Our Blog</Link></li>
-                                                        <li><Link href="/blog-details">Blog Details</Link></li>
-                                                    </ul>
-                                                </li>
+                                                     
+                                                        
+                                                  
+                                            
+                                                
                                                 <li><Link href="/contact">Contact</Link></li>
                                             </ul>
                                         </div>
@@ -127,9 +115,7 @@ export default function Header({ headerCls, headerTop }) {
                                         <div className="social-links">
                                             <ul className="clearfix list-wrap">
                                                 <li><Link href="/#"><i className="fab fa-facebook-f" /></Link></li>
-                                                <li><Link href="/#"><i className="fab fa-twitter" /></Link></li>
-                                                <li><Link href="/#"><i className="fab fa-instagram" /></Link></li>
-                                                <li><Link href="/#"><i className="fab fa-linkedin-in" /></Link></li>
+                                               
                                                 <li><Link href="/#"><i className="fab fa-youtube" /></Link></li>
                                             </ul>
                                         </div>
