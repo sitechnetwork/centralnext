@@ -26,12 +26,9 @@ export default function Home3() {
                     <Services2 />
                     <Counter3 />
                 </div>
-                <Engineer1 />
-                <Work2 />
                 <Project3 />
                 <Faq1 />
-                <Blog1 />
-                <Newsletter1 />
+             
             </Layout>
         </>
     )
