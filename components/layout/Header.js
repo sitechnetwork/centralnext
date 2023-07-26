@@ -79,22 +79,29 @@ export default function Header({ headerCls, headerTop }) {
                                         </div>
 
 
-<div className="navbar-wrap main-menu d-none d-lg-flex">
-  <ul className="navigation">
-    <li><Link href="https://centralroofingsystem.com/">Home</Link></li>
-    <li>
-      <Link href="/about">About us</Link>
-      <ul>
-        <li><Link href="/services">Services</Link></li>
-        <li><Link href="/project">Project Page</Link></li>
-        <li><Link href="/team">Our Team</Link></li>
-      </ul>
-    </li>
-    <li><Link href="/contact">Contact</Link></li>
-  </ul>
-</div>
-
-                
+ <div className="navbar-wrap main-menu d-none d-lg-flex">
+                                            <ul className="navigation">
+                                               
+                                              <li><Link href="https://centralroofingsystem.com/">Home</Link></li>
+                                                <li><Link href="/about">About us</Link></li>
+                                                <li><Link href="/services">Services</Link></li>
+                                                       
+                                                         <li><Link href="/project">Project Page</Link></li>
+    
+                                                        <li><Link href="/team">Our Team</Link></li>
+                                                     
+                                                        
+                                                  
+                                            
+                                                
+                                                <li><Link href="/contact">Contact</Link></li>
+                                            </ul>
+                                        </div>
+                                        <div className="header-action d-none d-md-block">
+                                            <ul className="list-wrap">
+                                                <li className="header-btn"><Link href="/contact" className="btn">Get a Quoute</Link></li>
+                                            </ul>
+                                        </div>
                                         <div className="header-action d-none d-md-block">
                                             <ul className="list-wrap">
                                                 <li className="header-btn"><Link href="/contact" className="btn">Get a Quoute</Link></li>
