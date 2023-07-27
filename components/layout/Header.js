@@ -84,16 +84,9 @@ export default function Header({ headerCls, headerTop }) {
                                                
                                               <li><Link href="https://centralroofingsystem.com/">Home</Link></li>
                                                 <li><Link href="/about">About us</Link></li>
-                                                <li><Link href="/services">Services</Link></li>
-                                                       
-                                                         <li><Link href="/project">Project Page</Link></li>
-    
-                                                        <li><Link href="/team">Our Team</Link></li>
-                                                     
-                                                        
-                                                  
-                                            
-                                                
+                                                <li><Link href="/services">Services</Link></li>                                                    
+                                                <li><Link href="/project">Projects</Link></li>
+                                                <li><Link href="/team">Our Team</Link></li>
                                                 <li><Link href="/contact">Contact</Link></li>
                                             </ul>
                                         </div>
