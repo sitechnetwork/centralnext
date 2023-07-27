@@ -56,7 +56,7 @@ export default function About() {
 </p>
                                     <div className="about-list">
                                         <ul className="list-wrap">
-                                            <li><i className="fas fa-check" />32k Partners have worked us.</li>
+                                            <li><i className="fas fa-check" />Over 1k Partners have worked with us.</li>
                                             <li><i className="fas fa-check" />Professional and experienced human resources.</li>
                                             <li><i className="fas fa-check" />Provide the best roof services</li>
                                         </ul>
