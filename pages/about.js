@@ -88,7 +88,7 @@ export default function About() {
                                     </div>
                                     <div className="work-content">
                                         <h2 className="title">Plan for Roofing</h2>
-                                        <p>Suffered alteration in some a form, by injected humour, or randomised word</p>
+                                        <p>Our roofing process begins with meticulous planning to ensure every project's success.</p>
                                     </div>
                                 </div>
                             </div>
@@ -100,7 +100,7 @@ export default function About() {
                                     </div>
                                     <div className="work-content">
                                         <h2 className="title">Schedule Estimate</h2>
-                                        <p>Suffered alteration in some a form, by injected humour, or randomised word</p>
+                                        <p>We provide a detailed estimate and schedule to keep our clients informed at every step.</p>
                                     </div>
                                 </div>
                             </div>
@@ -112,7 +112,8 @@ export default function About() {
                                     </div>
                                     <div className="work-content">
                                         <h2 className="title">Install New Roof</h2>
-                                        <p>Suffered alteration in some a form, by injected humour, or randomised word</p>
+                                        <p>Our skilled team efficiently installs the new roofing system with precision.
+</p>
                                     </div>
                                 </div>
                             </div>
@@ -124,7 +125,8 @@ export default function About() {
                                     </div>
                                     <div className="work-content">
                                         <h2 className="title">Enjoy Roofing</h2>
-                                        <p>Suffered alteration in some a form, by injected humour, or randomised word</p>
+                                        <p>Sit back and enjoy the benefits of our durable and quality roofing solutions.
+</p>
                                     </div>
                                 </div>
                             </div>
