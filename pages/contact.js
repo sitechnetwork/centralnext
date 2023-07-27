@@ -56,8 +56,10 @@ export default function Contact() {
                                                     <i className="fas fa-phone-alt" />
                                                 </div>
                                                 <div className="content">
-                                                    <Link href="tel:0123456789">+(323) 9847 3847 383</Link>
-                                                    <Link href="tel:0123456789">+(434) 5466 5467 443</Link>
+ 
+                                                    <Link href="tel:0242867618">+(233) 24 286 7618</Link>
+                                                    <Link href="tel:0242227018">+(233) 24 222 7018 </Link>
+                                                    <Link href="tel:0277440550">+(233) 27 744 0550</Link>
                                                 </div>
                                             </div>
                                         </li>
@@ -67,8 +69,8 @@ export default function Contact() {
                                                     <i className="fas fa-envelope" />
                                                 </div>
                                                 <div className="content">
-                                                    <Link href="mailto:infoyour@gmail.com">infoyour@gmail.com</Link>
-                                                    <Link href="mailto:infoyour@gmail.com">domaininfo@gmail.com</Link>
+                                                    <Link href="mailto:centralroofing@gmail.com">centralroofing@gmail.com</Link>
+                                                    <Link href="mailto:agent@centralroofingsystem.com">agent@centralroofingsystem.com</Link>
                                                 </div>
                                             </div>
                                         </li>
@@ -78,7 +80,11 @@ export default function Contact() {
                                                     <i className="fas fa-map-marker-alt" />
                                                 </div>
                                                 <div className="content">
-                                                    <p>4517 Washington Ave. 32 <br /> Manchester, Road USA</p>
+                                                    <p>Accra Cape Highway
+Factory Breku Akotsi-Winneba <br />Address: 
+
+GPS Address:
+CG-0069-872   </p>
                                                 </div>
                                             </div>
                                         </li>
