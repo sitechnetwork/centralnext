@@ -63,17 +63,7 @@ export default function Contact() {
                                                 </div>
                                             </div>
                                         </li>
-                                        <li>
-                                            <div className="contact-info-item">
-                                                <div className="icon">
-                                                    <i className="fas fa-envelope" />
-                                                </div>
-                                                <div className="content">
-                                                    <Link href="mailto:centralroofing@gmail.com">centralroofing@gmail.com</Link>
-                                                    <Link href="mailto:agent@centralroofingsystem.com">agent@centralroofingsystem.com</Link>
-                                                </div>
-                                            </div>
-                                        </li>
+                                     
                                         <li>
                                             <div className="contact-info-item">
                                                 <div className="icon">
