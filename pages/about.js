@@ -52,9 +52,8 @@ export default function About() {
                                         <span className="sub-title">About Our Company</span>
                                         <h2 className="title">We’re Committed to Roofing Excellence</h2>
                                     </div>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majori have suffered
-                                        alteration in some form, by injected humour, or randomised word which don't look even slightly
-                                        believable.</p>
+                                    <p>Central Roofing Systems is a leading roofing company with a strong commitment to providing smart solutions and the best roofing services and consulting. With over 10 years of experience in the industry, we take pride in using professional and experienced personnel to deliver top-notch roofing solutions.
+</p>
                                     <div className="about-list">
                                         <ul className="list-wrap">
                                             <li><i className="fas fa-check" />32k Partners have worked us.</li>
