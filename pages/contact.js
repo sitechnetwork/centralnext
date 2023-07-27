@@ -80,11 +80,12 @@ export default function Contact() {
                                                     <i className="fas fa-map-marker-alt" />
                                                 </div>
                                                 <div className="content">
-                                                    <p>Accra Cape Highway
-Factory Breku Akotsi-Winneba <br />Address: 
-
-GPS Address:
-CG-0069-872   </p>
+                                                    <p>Accra Cape Highway Factory Breku Akotsi-Winneba<br/>
+                                                    GPS Address: CG-0069-872 <br/>
+                                                    Showroom -Kasoa -ofaakor <br/>
+                                                    Showroom: Takoradi -K. Junctuon
+                                                        
+                                                </p>
                                                 </div>
                                             </div>
                                         </li>
