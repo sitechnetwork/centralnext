@@ -102,11 +102,7 @@ export default function Header({ headerCls, headerTop }) {
                                                 <li className="header-btn"><Link href="/contact" className="btn">Get a Quoute</Link></li>
                                             </ul>
                                         </div>
-                                        <div className="header-action d-none d-md-block">
-                                            <ul className="list-wrap">
-                                                <li className="header-btn"><Link href="/contact" className="btn">Get a Quoute</Link></li>
-                                            </ul>
-                                        </div>
+                                     
                                     </nav>
                                 </div>
                                 {/* Mobile Menu  */}
