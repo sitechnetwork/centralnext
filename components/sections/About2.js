@@ -29,7 +29,7 @@ export default function About2() {
                                     <span className="sub-title">About Our Company</span>
                                     <h2 className="title">We’re Committed to Roofing Excellence</h2>
                                 </div>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majori have suffered alteration in some form, by injected humour, or randomised word which don't look even slightly believable.</p>
+                                <p>Central Roofing, based in the heart of breku-akoti, central region,Ghana, is a leading provider of high-quality roofing solutions. We specialize in the manufacturing and installation of durable roofing sheets designed to withstand diverse weather conditions. Our commitment to excellence, coupled with our local understanding, allows us to create roofing systems that not only protect but also enhance the beauty of your structures. At Central Roofing, we cover your dreams</p>
                                 <div className="about-list-two">
                                     <ul className="list-wrap">
                                         <li className="list-item">
